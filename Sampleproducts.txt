@@ -1,0 +1,71 @@
+0
+: 
+    active: true
+
+    assets: (2) [{…}, {…}]
+
+    attributes: []
+
+    categories: []
+
+    checkout_url: {checkout: 'https://checkout.chec.io/JjiTfp?checkout=true', display: 'https://checkout.chec.io/JjiTfp'}
+
+    collects: {fullname: false, shipping_address: true, billing_address: false, extrafields: false}
+
+    conditionals: {is_active: true, is_tax_exempt: false, is_pay_what_you_want: false, is_sold_out: false, has_digital_delivery: false, …}
+    created: 1606298235
+
+    description: "<p></p><p>Black stove-top kettle</p><p></p>"
+
+    extrafields: []
+
+    has: {digital_delivery: false, physical_delivery: true, images: true}
+
+    id: "prod_RyWOwmakAwnEa2"
+
+    image: {id: 'ast_r2LM5QDa2oZV1g', url: 'https://cdn.chec.io/merchants/19661/assets/tv2wubQUhhbW1qAl|Screenshot 2020-11-25 at 10.56.41.
+    png', description: null, is_image: true, filename: 'Screenshot 2020-11-25 at 10.56.41.png', …}
+
+    is: {active: true, tax_exempt: false, pay_what_you_want: false, sold_out: false, free: false, …}
+
+    media: {type: 'image', source: 'https://cdn.chec.io/merchants/19661/assets/tv2wubQUhhbW1qAl|Screenshot 2020-11-25 at 10.56.41.png', asset_id: 'ast_r2LM5QDa2oZV1g'}
+
+    meta: null
+
+    name: "Kettle"
+
+    permalink: "JjiTfp"
+
+    price: {raw: 45.5, formatted: '45.50', formatted_with_symbol: '$45.50', formatted_with_code: '45.50 USD'}
+
+    quantity: 0
+
+    related_products: []
+
+    seo: {title: null, description: null}
+
+    sku: null
+
+    sort_order: 0
+
+    thank_you_url: null
+
+    updated: 1606298235
+
+    variant_groups: []
+
+    variants: []
+
+    [[Prototype]]: Object
+
+
+1: {id: 'prod_Kvg9l6Xrpo1bB7', created: 1606298293, updated: 1606298293, active: true, permalink: 'HOYz8I', …}
+2: {id: 'prod_NqKE50vEgwdgBL', created: 1606298328, updated: 1606298328, active: true, permalink: 'ilJcYE', …}
+3: {id: 'prod_kpnNwAQPkwmXB3', created: 1606298378, updated: 1606298378, active: true, permalink: 'IiTKVC', …}
+4: {id: 'prod_8XO3wpXj4wYAzQ', created: 1606298406, updated: 1606298406, active: true, permalink: 'Nb0dQ0', …}
+5: {id: 'prod_bO6J5aqVy5EjpK', created: 1606298429, updated: 1606298436, active: true, permalink: '1Dzo37', …}
+6: {id: 'prod_A12JwrGqXoPjnk', created: 1606298475, updated: 1606303804, active: true, permalink: '8QCsdn', …}
+7: {id: 'prod_Op1YoVq3dwXLv9', created: 1606298502, updated: 1606298502, active: true, permalink: 'WtPYRe', …}
+
+length: 8
+[[Prototype]]: Array(0)
